@@ -1,0 +1,5 @@
+{
+  "apiEndpoint": "http://81.163.30.13/api/",
+  "FireBaseEndpoint": "https://fast-company-firebase-16bc7-default-rtdb.europe-west1.firebasedatabase.app/",
+  "isFireBase": false
+}

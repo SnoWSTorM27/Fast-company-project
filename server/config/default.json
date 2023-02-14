@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb://ueqizrpau90yy6tdi1qe:oCAXT43edppQxogcsFkL@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bkml8zzvrzg7otx?replicaSet=rs0",
+  "accessSecret": "super seCret from SnoWSTorM",
+  "refreshSecret": "OpasdSupraOpelWagen"
+}
